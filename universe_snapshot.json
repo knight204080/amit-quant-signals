@@ -1,0 +1,156 @@
+{
+  "generated_at_utc": "2026-08-19T05:49:05.953048+00:00",
+  "rule": "top30_by_30d_avg_notional_usd_min25M_min365d_listed",
+  "universe": [
+    {
+      "symbol": "BTCUSDT",
+      "onboard_date": "2019-09-08",
+      "avg_30d_notional_usd": 6760766046.016907
+    },
+    {
+      "symbol": "ETHUSDT",
+      "onboard_date": "2019-11-27",
+      "avg_30d_notional_usd": 5195643486.457302
+    },
+    {
+      "symbol": "SOLUSDT",
+      "onboard_date": "2020-09-14",
+      "avg_30d_notional_usd": 941597481.6646701
+    },
+    {
+      "symbol": "BANKUSDT",
+      "onboard_date": "2025-04-18",
+      "avg_30d_notional_usd": 430639080.8710833
+    },
+    {
+      "symbol": "XRPUSDT",
+      "onboard_date": "2020-01-06",
+      "avg_30d_notional_usd": 379845027.582204
+    },
+    {
+      "symbol": "ZECUSDT",
+      "onboard_date": "2020-02-05",
+      "avg_30d_notional_usd": 340734235.1872466
+    },
+    {
+      "symbol": "HYPEUSDT",
+      "onboard_date": "2025-05-30",
+      "avg_30d_notional_usd": 339824470.70484036
+    },
+    {
+      "symbol": "DOGEUSDT",
+      "onboard_date": "2020-07-10",
+      "avg_30d_notional_usd": 226789226.34247532
+    },
+    {
+      "symbol": "TUTUSDT",
+      "onboard_date": "2025-03-20",
+      "avg_30d_notional_usd": 207899693.04606533
+    },
+    {
+      "symbol": "BNBUSDT",
+      "onboard_date": "2020-02-10",
+      "avg_30d_notional_usd": 190216831.93930334
+    },
+    {
+      "symbol": "ACEUSDT",
+      "onboard_date": "2023-12-18",
+      "avg_30d_notional_usd": 159378773.92687902
+    },
+    {
+      "symbol": "ADAUSDT",
+      "onboard_date": "2020-01-31",
+      "avg_30d_notional_usd": 128320682.82067665
+    },
+    {
+      "symbol": "1000PEPEUSDT",
+      "onboard_date": "2023-05-05",
+      "avg_30d_notional_usd": 112664613.08191516
+    },
+    {
+      "symbol": "COTIUSDT",
+      "onboard_date": "2021-03-09",
+      "avg_30d_notional_usd": 109720186.76355448
+    },
+    {
+      "symbol": "HEIUSDT",
+      "onboard_date": "2025-02-13",
+      "avg_30d_notional_usd": 97724090.80469172
+    },
+    {
+      "symbol": "WLDUSDT",
+      "onboard_date": "2023-07-24",
+      "avg_30d_notional_usd": 97373486.97640999
+    },
+    {
+      "symbol": "LINKUSDT",
+      "onboard_date": "2020-01-17",
+      "avg_30d_notional_usd": 91299610.44584434
+    },
+    {
+      "symbol": "PUMPUSDT",
+      "onboard_date": "2025-07-10",
+      "avg_30d_notional_usd": 90810640.03082417
+    },
+    {
+      "symbol": "BICOUSDT",
+      "onboard_date": "2023-09-28",
+      "avg_30d_notional_usd": 83169192.88982299
+    },
+    {
+      "symbol": "SUIUSDT",
+      "onboard_date": "2023-05-03",
+      "avg_30d_notional_usd": 82293121.011022
+    },
+    {
+      "symbol": "KAITOUSDT",
+      "onboard_date": "2025-02-20",
+      "avg_30d_notional_usd": 75089173.13648501
+    },
+    {
+      "symbol": "NEARUSDT",
+      "onboard_date": "2020-10-15",
+      "avg_30d_notional_usd": 74574421.86053333
+    },
+    {
+      "symbol": "PAXGUSDT",
+      "onboard_date": "2025-03-27",
+      "avg_30d_notional_usd": 73372278.74911366
+    },
+    {
+      "symbol": "HOMEUSDT",
+      "onboard_date": "2025-06-10",
+      "avg_30d_notional_usd": 71159001.99059266
+    },
+    {
+      "symbol": "UNIUSDT",
+      "onboard_date": "2020-09-18",
+      "avg_30d_notional_usd": 70843835.7139
+    },
+    {
+      "symbol": "1000RATSUSDT",
+      "onboard_date": "2023-12-15",
+      "avg_30d_notional_usd": 70201474.08199434
+    },
+    {
+      "symbol": "1000SHIBUSDT",
+      "onboard_date": "2021-05-10",
+      "avg_30d_notional_usd": 68231696.24713106
+    },
+    {
+      "symbol": "ENAUSDT",
+      "onboard_date": "2024-04-02",
+      "avg_30d_notional_usd": 65806208.83239367
+    },
+    {
+      "symbol": "ONDOUSDT",
+      "onboard_date": "2024-01-20",
+      "avg_30d_notional_usd": 60386261.448515005
+    },
+    {
+      "symbol": "AVAXUSDT",
+      "onboard_date": "2020-09-23",
+      "avg_30d_notional_usd": 60350694.258200005
+    }
+  ]
+}
